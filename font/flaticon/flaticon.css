@@ -5,11 +5,11 @@
 
 @font-face {
   font-family: "Flaticon";
-  src: url("https://iansamz.github.io/font/flaticon/Flaticon.eot");
-  src: url("https://iansamz.github.io/font/flaticon/Flaticon.eot?#iefix") format("embedded-opentype"),
-       url("https://iansamz.github.io/font/flaticon/Flaticon.woff") format("woff"),
-       url("https://iansamz.github.io/font/flaticon/Flaticon.ttf") format("truetype"),
-       url("https://iansamz.github.io/font/flaticon/Flaticon.svg#Flaticon") format("svg");
+  src: url("https://iansamz.github.io/font/flaticon/flaticon.eot");
+  src: url("https://iansamz.github.io/font/flaticon/flaticon.eot?#iefix") format("embedded-opentype"),
+       url("https://iansamz.github.io/font/flaticon/flaticon.woff") format("woff"),
+       url("https://iansamz.github.io/font/flaticon/flaticon.ttf") format("truetype"),
+       url("https://iansamz.github.io/font/flaticon/flaticon.svg#Flaticon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
